@@ -10,4 +10,5 @@ You can download the dataset in https://archive.ics.uci.edu/dataset/240/human+ac
 ## Train and Evaluation
 We have implemented two modality selection methods in client_proposed.py and client_DLF.py, respectively. The random selection method can be directly achieved using the without-replacement sampling function provided by the NumPy library. To change the modality selection method, simply modify the function call in server.py.
 
+```python
 Run main.py
