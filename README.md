@@ -1,11 +1,13 @@
 # Optimization-Framework-in-Joint-Client-and-Modality-Selection-for-Multi-Modal-Federated-Learning
 Code for Papaer Optimization Framework in Joint Client and Modality Selection for Multi-Modal Federated Learning
 
-## Environments
+## Preparing
+
+### Environments
 You can use requirements.txt
 
-## Dataset
-You can download the dataset in https://archive.ics.uci.edu/dataset/240/human+activity+recognition+using+smartphones, then you can run generate generate_har.py to generate dataset to simulate multi-modal FL environment.
+### Dataset
+You can download the dataset in https://archive.ics.uci.edu/dataset/240/human+activity+recognition+using+smartphones, then you can run generate generate_har.py to generate dataset to simulate multi-modal FL environment. Put the raw data into path \dataset\har\ UCI HAR Dataset. Then run generate_har.py to prepare dataset.
 
 ## Train and Evaluation
 
