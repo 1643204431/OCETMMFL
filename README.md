@@ -1,5 +1,5 @@
-# Optimization-Framework-in-Joint-Client-and-Modality-Selection-for-Multi-Modal-Federated-Learning
-Code for Papaer Optimization Framework in Joint Client and Modality Selection for Multi-Modal Federated Learning
+# OCETMMFL
+Code for Papaer Optimizing Communication Efficiency through TrainingPotential in Multi-Modal Federated Learning
 
 ## Preparing
 
