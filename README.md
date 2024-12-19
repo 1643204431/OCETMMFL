@@ -7,10 +7,23 @@ Code for Papaer Optimizing Communication Efficiency through TrainingPotential in
 You can use requirements.txt
 
 ### Dataset
-You can download the dataset in https://archive.ics.uci.edu/dataset/240/human+activity+recognition+using+smartphones, then you can run generate generate_har.py to generate dataset to simulate multi-modal FL environment. Put the raw data into path \dataset\har\ UCI HAR Dataset. Then generate_har dataset via:
+You can download the UCI HAR dataset in https://archive.ics.uci.edu/dataset/240/human+activity+recognition+using+smartphones, then you can run generate generate_har.py to generate dataset to simulate multi-modal FL environment. Then generate_har dataset via:
 ```python
 Run generate_har.py
 ```
+You can download the Ninapro DB2 and DB7 in https://ninapro.hevs.ch/instructions/DB2.html. Then generate these two datasets via:
+```python
+Run generate_DB2.py
+```
+```python
+Run generate_DB7.py
+```
+You can download the ActionSense dataset in https://action-net.csail.mit.edu/. Then generate ActionSense via:
+```python
+Run generate_ActionSense.py
+```
+
+The CG MNIST is from https://github.com/jayaneetha/colorized-MNIST.
 
 ## Train and Evaluation
 
